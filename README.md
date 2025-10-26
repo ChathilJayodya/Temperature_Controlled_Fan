@@ -1,2 +1,2 @@
 # Temperature_Controlled_Fan
-Temperature controlled fan using arduino
+Arduino-based temperature-controlled fan using DHT22, LCD, and motor driver.
